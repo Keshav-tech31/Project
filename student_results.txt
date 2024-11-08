@@ -1,0 +1,29 @@
+=== Your Result ===
+
+Roll No    : 23090052002
+Name       : Anup Sharma
+Branch/Sem : CSE/5
+
+===Theoretical Marks===
+
+Subject                              Marks Obtained
+------------------------------------------------------
+Software Engineering                     23
+Android Application Development          25
+Java Programming                         27
+Computer Hardware and Servicing          29
+------------------------------------------------------
+
+===Practical Marks===
+
+Subject                              Marks Obtained
+------------------------------------------------------
+Android Application Development          25
+Java Programming                         20
+Computer Hardware and Servicing          24
+Minor Project Work                       48
+Industrial Exposure                      23
+Industrial Training                      23
+General Proficiency                      20
+------------------------------------------------------
+
